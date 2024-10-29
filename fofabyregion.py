@@ -6,7 +6,7 @@ import time
 # 定义要提取的网页列表和对应的保存文件名
 urls = {
     "https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJTaWNodWFuIiAmJiBvcmc9IkNoaW5hIE1vYmlsZSBDb21tdW5pY2F0aW9ucyBHcm91cCBDby4sIEx0ZC4iICYmIHByb3RvY29sPSJodHRwIg%3D%3D": "Sichuan_yidong.txt",
-    "https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJJRCIgJiYgb3JnPSJQVC4gVG90YWwgSW5mbyBLaGFyaXNtYSIgJiYgcHJvdG9jb2w9Imh0dHAi": "Yinni_PT.txt",
+    "https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJKaWFuZ3hpIiAmJiBvcmc9IkNoaW5hbmV0IiAmJiBwcm90b2NvbD0iaHR0cCI%3D": "Jiangxi_dianxin.txt",
     "https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJWTiIgJiYgb3JnPSJGUFQgVGVsZWNvbSBDb21wYW55IiAmJiBwcm90b2NvbD0iaHR0cCI%3D": "Yuenan_FPT.txt",
     "https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJLUiIgJiYgb3JnPSJTSyBCcm9hZGJhbmQgQ28gTHRkIiAmJiBwcm90b2NvbD0iaHR0cCI%3D": "KR_SK.txt",
     "https://fofa.info/result?qbase64=InVkcHh5IiAmJiByZWdpb249IlRXIg%3D%3D": "TW.txt",
